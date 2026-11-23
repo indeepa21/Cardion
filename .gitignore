@@ -1,0 +1,28 @@
+# Python virtual environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+*-checkpoint.py
+*-checkpoint.json
+
+# Local settings and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.vscode/
+.idea/
+
+# Local dataset and generated model files
+framingham.csv
+*.pkl
+cardion_model_files.zip
+
+# Operating system files
+.DS_Store
+Thumbs.db

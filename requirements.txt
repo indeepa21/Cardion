@@ -1,0 +1,12 @@
+# Streamlit app
+streamlit
+pandas
+numpy
+Pillow
+# Match the version used to save scaler.pkl.
+scikit-learn
+
+# Research.ipynb
+matplotlib
+seaborn
+imbalanced-learn
