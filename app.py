@@ -175,6 +175,6 @@ with right_col:
             st.metric("Model score", f"{score:.2%}")
 
 st.markdown(
-    "<footer>Cardion 2025 © </footer>",
+    "<footer>Cardion 2025 Nov © </footer>",
     unsafe_allow_html=True,
 )
